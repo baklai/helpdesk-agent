@@ -1,7 +1,0 @@
-{
-  "name": "helpdesk-agent",
-  "version": "1.0.0",
-  "description": "Helpdesk SysInspector Agent",
-  "private": true,
-  "main": "main.pas"
-}
